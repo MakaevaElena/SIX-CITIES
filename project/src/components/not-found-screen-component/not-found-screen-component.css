@@ -1,0 +1,13 @@
+.not-found-wrapper {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.not-found-status {
+ font-size: 28px;
+ font-weight: 500;
+ margin-right: 10px;
+}
